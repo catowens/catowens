@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <href="https://giphy.com/stickers/transparent-cat-37oflo-NMBl7NxAlPDrOgq6aQ">via GIPHY</a></p>
+  <href="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif">via GIPHY</a></p>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/catherine-owens-a87664194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
